@@ -1,6 +1,6 @@
 use anchor_lang::prelude::*;
 
-declare_id!("<PLACE YOUR ADDRESS HERE>");
+declare_id!("6zPKTTBJwR8erg2o6XT9bEg3tHMEX2bFBEgX2jAVu4aC");
 
 #[program]
 pub mod todo_list_app {
